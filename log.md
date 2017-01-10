@@ -12,6 +12,5 @@ Canvas is still new for me, but I managed to figure out some basic functionality
 
 ## Contents
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
